@@ -1,7 +1,7 @@
 public class Student {
         public void stud_det()
         {
-            String name = "Sameksha Bafna";
+            String name = "Spandana";
             String prg = "BCA";
             String dept = "MCA";
             String[] course={"DevOps","Machine Learning","C#"};
